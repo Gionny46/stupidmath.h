@@ -1,0 +1,7 @@
+﻿  prova_mean_to_delete.c
+  stupid_math.c
+C:\Users\39349\OneDrive\Desktop\Programmazione\lezione_1\stupid_math.c(4,17): warning C4244: 'return': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\39349\OneDrive\Desktop\Programmazione\lezione_1\stupid_math.c(10,25): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\39349\OneDrive\Desktop\Programmazione\lezione_1\stupid_math.c(11,25): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  stupid_math.vcxproj -> C:\Users\39349\OneDrive\Desktop\Programmazione\lezione_1\stupid_math\x64\Debug\stupid_math.exe
